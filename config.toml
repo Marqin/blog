@@ -1,0 +1,51 @@
+theme = "blackburn"
+baseurl = "http://marqin.pl/"
+title = "Marqin's blog"
+author = "Marqin"
+# Shown in the side menu
+copyright = "This website uses cookies for Google statistics and Disqus comments.<br/><br/>&copy; 2016 Hubert Jarosz<br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png' /></a><br />This work is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/4.0/'>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  brand = "Marqin's Blog"
+  subtitle = "Programming, BSD/Linux, and some other geeky stuff…"
+  googleAnalytics = "UA-20384832-1"
+  disqus = "Marqin"
+  highlightjs = "solarized-dark"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 3
+    url = "/contact/"
+
+[social]
+  twitter = "mrMarqin"
+  github = "Marqin"
