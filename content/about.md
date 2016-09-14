@@ -15,7 +15,7 @@ title = "About"
 | Python                | Haskell               | JavaScript            |
 |                       | Java                  | PHP                   |
 |                       | Rust                  | Prolog                |
-|                       |                       | Ruby                  |
+|                       | Scala                 | Ruby                  |
 
 
 ## Other stuff
