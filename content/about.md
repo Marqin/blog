@@ -11,12 +11,11 @@ title = "About"
 | &#9733;&#9733;&#9733; | &#9733;&#9733;&#9734; | &#9733;&#9734;&#9734; |
 | ----------------------|:---------------------:|:---------------------:|
 | C                     | Elixir                | Clojure               |
-| C++                   | GDScript              | Elm                   |
+| C++                   | Go                    | Elm                   |
 | Python                | Haskell               | JavaScript            |
 |                       | Java                  | PHP                   |
 |                       | Rust                  | Prolog                |
 |                       | Scala                 | Ruby                  |
-
 
 ## Other stuff
 
